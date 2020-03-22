@@ -13,7 +13,7 @@
     -fx-tab-min-width: 0.5em;
     -fx-tab-max-width: 0.5em;
     -fx-padding: 0 -1 -1 0
-}ss
+}
 .tab .tab-label {
     -fx-background-color: transparent;
     -fx-alignment: CENTER;
